@@ -35,7 +35,7 @@ const LoveLetter = () => {
       <div className="flap"></div>
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
-        I Love U Bujjii &#10084; <br />
+        I Love U Bujjii <br />
         <br />
         
       </div>
